@@ -1,14 +1,46 @@
 @font-face {
-    font-family: Oneregular;
-    src: url(../fonts/PoetsenOne-Regular.ttf);
+  font-family: Oneregular;
+  src: url(../fonts/PoetsenOne-Regular.ttf);
 }
 @font-face {
-    font-family: Roboto;
-    src: url(../fonts/Roboto-Regular.ttf);
+  font-family: Roboto;
+  src: url(../fonts/Roboto-Regular.ttf);
 }
 * {
-    margin: 0;
-    padding: 0;
-    scroll-behavior: smooth;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
 }
+
+/* ---------- main ---------- */
+/*########################################*/
+main section {
+  background: url(../img/883-1920x1080.jpeg) center/cover no-repeat;
+  height: 100vh;
+  font-family: "Oneregular";
+  text-align: center;
+  color: white;
+}
+
+main section h2 {
+  font-size: 48px;
+  padding-top: 5rem;
+  transition: all 0.5s;
+}
+
+main section h2:hover {
+  color: #999;
+}
+
+main section p {
+  width: 32rem;
+  font-size: 32px;
+  margin: 10rem 0 0 80rem;
+  transition: all 0.5s;
+}
+
+main section p:hover {
+  color: #9e9e9e;
+}
+/*########################################*/

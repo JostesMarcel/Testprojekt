@@ -12,3 +12,41 @@
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
+
+
+/* footer  */
+
+footer {
+    height: 25vh;
+}
+
+footer section {
+    background: url(../img/tree-6792528__340.png) no-repeat center/cover;  
+    font-family: Roboto;
+    }
+
+footer h1 {
+    width: 45%;
+    padding: 30% 10% 40% 5%;;
+    font-size: 3rem;
+    color: #D31F1F;
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+   
+}
+
+footer li {
+    display: inline-block;
+    padding: 1% 3%;    
+}
+
+footer nav {
+    padding: 1% 0% 1% 28%;
+    background-color: #D31F1F;
+}
+
+
+

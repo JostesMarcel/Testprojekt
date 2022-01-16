@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Oneregular;
+    src: url(../fonts/PoetsenOne-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}

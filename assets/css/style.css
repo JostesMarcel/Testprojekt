@@ -45,7 +45,7 @@ main section p:hover {
   color: #9e9e9e;
 }
 /*########################################*/
-
+* {
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
